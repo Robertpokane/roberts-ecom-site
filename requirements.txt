@@ -17,4 +17,4 @@ requests==2.21.0
 s3transfer==0.3.3
 six==1.15.0
 stripe==2.49.0
-urllib3==1.25.9
+urllib3==1.25.7
